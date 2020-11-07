@@ -1,0 +1,1734 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.0b10 (19f63eee530c) revision 1701438'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'uk' Physical Memory: 12190 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0b10\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Admin/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49770
+Successfully changed project path to: C:/Users/Admin/New Unity Project
+C:/Users/Admin/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 51.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b10 (19f63eee530c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Admin/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   23.21.13.8857
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56940
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001855 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.633 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000859 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1552.
+Total: 2.599400 ms (FindLiveObjects: 0.438100 ms CreateObjectMapping: 0.053300 ms MarkObjects: 2.046400 ms  DeleteObjects: 0.059200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(37078bf35e6fc0a4cb5451a323b33696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(37078bf35e6fc0a4cb5451a323b33696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fee9257d771fd7f2688e4f875c2de69') in 0.074036 seconds
+  Import took 0.077390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(b46b24715d98c91438ff5e72a59eecb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(b46b24715d98c91438ff5e72a59eecb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94c126038d38a234df9e230c0f9d999') in 0.006641 seconds
+  Import took 0.010705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(de42448e4d73bfb45a89651bbd29216c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(de42448e4d73bfb45a89651bbd29216c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d21a8c9e15ac2bfb4089e96a231e0a7') in 0.004288 seconds
+  Import took 0.008434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Material
+  artifactKey: Guid(e05d5f415c3cedf4cab6c2a95f6bfdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(e05d5f415c3cedf4cab6c2a95f6bfdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112b206f820047777814751c7756445d') in 0.003660 seconds
+  Import took 0.007131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.918163 seconds.
+  path: Assets/Scripts/MouseLook.cs
+  artifactKey: Guid(ae039eb18946d5a49ac91e565a81b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MouseLook.cs using Guid(ae039eb18946d5a49ac91e565a81b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041ff65398155cdb1b1147537300b03b') in 0.033242 seconds
+  Import took 0.038762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(6f94de9b3de47574eb9fac595785bc20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(6f94de9b3de47574eb9fac595785bc20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728a2d6a661b96cea3c3eabf16b36dfc') in 0.004432 seconds
+  Import took 0.013314 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002274 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000672 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 48.2 MB.
+System memory in use after: 48.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 2.423500 ms (FindLiveObjects: 0.319700 ms CreateObjectMapping: 0.041100 ms MarkObjects: 2.042800 ms  DeleteObjects: 0.017600 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002175 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 87.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.413 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002838 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.110 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 48.4 MB.
+System memory in use after: 48.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1560.
+Total: 5.694800 ms (FindLiveObjects: 1.743800 ms CreateObjectMapping: 0.297000 ms MarkObjects: 3.625900 ms  DeleteObjects: 0.024700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003820 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.558 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001433 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.208 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.1 MB.
+System memory in use after: 48.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 2.799200 ms (FindLiveObjects: 0.309200 ms CreateObjectMapping: 0.047600 ms MarkObjects: 2.024000 ms  DeleteObjects: 0.416200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1289.992838 seconds.
+  path: Assets/Aligned Games
+  artifactKey: Guid(d289cb4afd1ed104ca7c50decc0f1986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games using Guid(d289cb4afd1ed104ca7c50decc0f1986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad409411875cc04e1d544fe610d0a80') in 0.006433 seconds
+  Import took 0.009554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.953490 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package
+  artifactKey: Guid(16adf91831347284e83843219873ce4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package using Guid(16adf91831347284e83843219873ce4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164016d4f56cd4462f354e954cd27aad') in 0.009345 seconds
+  Import took 0.013755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.362888 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art
+  artifactKey: Guid(12a31e1d59b5cec449275f53966a9ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art using Guid(12a31e1d59b5cec449275f53966a9ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ed398e6c4ef668f2c44e6645b82042') in 0.008993 seconds
+  Import took 0.013415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles
+  artifactKey: Guid(047f11f97602dab47b2b3c0eb819d173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles using Guid(047f11f97602dab47b2b3c0eb819d173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f74b635f0dddf4677087de78788e840') in 0.010025 seconds
+  Import took 0.013322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders
+  artifactKey: Guid(13f798f02f5d8ce49a9feca61e20b3a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders using Guid(13f798f02f5d8ce49a9feca61e20b3a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf0d37e2fef599b39c58c0328a89277') in 0.009004 seconds
+  Import took 0.014908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes
+  artifactKey: Guid(4f704ae4b4f98ae41a0bce26658850c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes using Guid(4f704ae4b4f98ae41a0bce26658850c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da1cf67c7bcd8f9ae63af7ad14a2561') in 0.006696 seconds
+  Import took 0.013349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001268 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts
+  artifactKey: Guid(07ef1ea683f79e648ab6fbe3b3ba617d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts using Guid(07ef1ea683f79e648ab6fbe3b3ba617d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6bd41e02ea41bb700fa93eac011a0b') in 0.003631 seconds
+  Import took 0.010154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.918722 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1
+  artifactKey: Guid(6c1f5731cd78b5d4fba997062f968da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1 using Guid(6c1f5731cd78b5d4fba997062f968da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490f687e5f4d29062ffd6f29051a6458') in 0.011630 seconds
+  Import took 0.014806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000780 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f4ff7a77bffc3f72045743853c44b42') in 0.022086 seconds
+  Import took 0.030825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.832304 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders/Diffuse.shader
+  artifactKey: Guid(f52b933c3edc98048a47bbfae5f9edf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Shaders/Diffuse.shader using Guid(f52b933c3edc98048a47bbfae5f9edf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e143c96ba205220c6fe2c3d4a2ddd7') in 0.046083 seconds
+  Import took 0.052181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.547478 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials
+  artifactKey: Guid(171dd9d59794d2449b5e42c8c039e591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials using Guid(171dd9d59794d2449b5e42c8c039e591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8885ab3e1238e71696396cccdc19cc24') in 0.019506 seconds
+  Import took 0.029900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models
+  artifactKey: Guid(7fc242d33d76c1d469ea5bbe6484a463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models using Guid(7fc242d33d76c1d469ea5bbe6484a463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df083eab5db1dbef6544315e74d5ed3') in 0.014957 seconds
+  Import took 0.026434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002150 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures
+  artifactKey: Guid(652df731c54b58344831236ed323159d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures using Guid(652df731c54b58344831236ed323159d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d7514c1cd2bc697d6d79f243e9bd448') in 0.014563 seconds
+  Import took 0.020476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.839021 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials/atlass_1.mat
+  artifactKey: Guid(85e89f3b829c70a4a85a798f89bd18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Materials/atlass_1.mat using Guid(85e89f3b829c70a4a85a798f89bd18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3926387eaf6d4130f8674b36158baf7') in 0.821484 seconds
+  Import took 0.828308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.035122 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles/Post-Processing Profile.asset
+  artifactKey: Guid(48fecc219078fe649b49dc8d6b5a495d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Profiles/Post-Processing Profile.asset using Guid(48fecc219078fe649b49dc8d6b5a495d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29605d6f0ba1619d168e7b034c5224b') in 0.010457 seconds
+  Import took 0.015378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.664679 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1/LightingData.asset
+  artifactKey: Guid(39e08bd8deba5ec449901668893718e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scenes/Demonstration1/LightingData.asset using Guid(39e08bd8deba5ec449901668893718e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fb48a8c85538bcae8b8989915c1f6f') in 0.015033 seconds
+  Import took 0.019313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.126951 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility
+  artifactKey: Guid(660df0dccf10f924fb6315800eeb3a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility using Guid(660df0dccf10f924fb6315800eeb3a5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '107505ce47cf7c1d805fc34a423201f5') in 0.012163 seconds
+  Import took 0.016559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.781829 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility/FlyCameraBehaviour.cs
+  artifactKey: Guid(0800aaec05ddcf84b817ae69ea51826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Scripts/Utility/FlyCameraBehaviour.cs using Guid(0800aaec05ddcf84b817ae69ea51826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e3dc6fd6dfaeead5567b39a24c5ead') in 0.083436 seconds
+  Import took 0.090661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.911684 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures/atlass_1_diffuse.png
+  artifactKey: Guid(bb8118f34410a604dbf31c021fae3009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Textures/atlass_1_diffuse.png using Guid(bb8118f34410a604dbf31c021fae3009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75647e2878d9f30a9ba208113b1c7af7') in 0.093593 seconds
+  Import took 0.099079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.501509 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition
+  artifactKey: Guid(1f7d53cb973f6fd4395e533106eeb745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Ammunition using Guid(1f7d53cb973f6fd4395e533106eeb745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99eb5c4c113468cbe9910435ebfad937') in 0.009720 seconds
+  Import took 0.016416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee
+  artifactKey: Guid(811597b8315bad846aba9a85adf30ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Melee using Guid(811597b8315bad846aba9a85adf30ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df966fc01b17e8daa290cde71aaf1e1') in 0.012428 seconds
+  Import took 0.016494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments
+  artifactKey: Guid(4d9302b31c1ed0d48b0b785482e01dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Attachments using Guid(4d9302b31c1ed0d48b0b785482e01dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7cb62b66d37c74c05a9151a999700b') in 0.011445 seconds
+  Import took 0.014916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns
+  artifactKey: Guid(17b74eca8d06d304e88b7dc4777e99bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns using Guid(17b74eca8d06d304e88b7dc4777e99bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c22067943a4e33d45757d32de3316df') in 0.013945 seconds
+  Import took 0.020090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives
+  artifactKey: Guid(dde93acd62cf3c74b8470dc2915431e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Explosives using Guid(dde93acd62cf3c74b8470dc2915431e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362ee7f8be108b2c3dbe94aafd9776ad') in 0.020200 seconds
+  Import took 0.030869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000665 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets
+  artifactKey: Guid(e40c90d109902d847ae936c877977b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/CombinedAssets using Guid(e40c90d109902d847ae936c877977b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795be73a6b4eb92fe414f538386156ae') in 0.011713 seconds
+  Import took 0.022551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.930671 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns
+  artifactKey: Guid(a90d424e75310304e90daa0dcaa23cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns using Guid(a90d424e75310304e90daa0dcaa23cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc98e89703fb0280dccb0cdc47bd529') in 0.010158 seconds
+  Import took 0.014109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns
+  artifactKey: Guid(29613ee9852fd9f4dbd1f42d2875a3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns using Guid(29613ee9852fd9f4dbd1f42d2875a3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fbd561115bda2ca3200dc7ac9fb717') in 0.007390 seconds
+  Import took 0.015916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns
+  artifactKey: Guid(fbd8b34f7ee6f1a4aa0a7e58e1f56898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/SubmachineGuns using Guid(fbd8b34f7ee6f1a4aa0a7e58e1f56898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2237dd3e5880ec73aa61ad1da36cf3b0') in 0.008497 seconds
+  Import took 0.013622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers
+  artifactKey: Guid(623a4ffd28122d04e8e2954c197e872e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers using Guid(623a4ffd28122d04e8e2954c197e872e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e690d57b3d6567e70198872c4b550cb0') in 0.012579 seconds
+  Import took 0.016134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols
+  artifactKey: Guid(5afe8f6b138e2c449b9754bf3bdaad21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Pistols using Guid(5afe8f6b138e2c449b9754bf3bdaad21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc3a8f6971f1256c9427b3f19ef2108') in 0.011955 seconds
+  Import took 0.014993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles
+  artifactKey: Guid(32fcdb152f190e14b8a94cf88b9a99d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles using Guid(32fcdb152f190e14b8a94cf88b9a99d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c12db49e5d5fa01962c6cc0a072eab') in 0.013943 seconds
+  Import took 0.018332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003839 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles
+  artifactKey: Guid(32fcdb152f190e14b8a94cf88b9a99d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rifles using Guid(32fcdb152f190e14b8a94cf88b9a99d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c12db49e5d5fa01962c6cc0a072eab') in 0.005724 seconds
+  Import took 0.010591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.442563 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1
+  artifactKey: Guid(414e268a70804e449b6a1f0f959c42f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Rocket_Launchers/RocketLauncher1 using Guid(414e268a70804e449b6a1f0f959c42f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68beecc3ffd0a917dfbcc5efc7473143') in 0.013418 seconds
+  Import took 0.018141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.202636 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1
+  artifactKey: Guid(e8cfd4ea656f0344086e4084b2605bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1 using Guid(e8cfd4ea656f0344086e4084b2605bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d27f640f2f1d00c166992e7355679e') in 0.015946 seconds
+  Import took 0.020283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001704 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3
+  artifactKey: Guid(ce0c49be0d67f6c4ca5c3f5f1a04f271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3 using Guid(ce0c49be0d67f6c4ca5c3f5f1a04f271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a750a5e88d7a7f9100e5eb04e47de717') in 0.005378 seconds
+  Import took 0.011610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4
+  artifactKey: Guid(94cd41755157f4249864df69a73b7f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4 using Guid(94cd41755157f4249864df69a73b7f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cd5d34fce794bcb1e7a78878ecfe2c7') in 0.012149 seconds
+  Import took 0.015862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6
+  artifactKey: Guid(f80615a430a28ea47a4597cb70c182e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun6 using Guid(f80615a430a28ea47a4597cb70c182e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a33f22e95d282733ed217626ad4cf78') in 0.006014 seconds
+  Import took 0.014855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002026 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2
+  artifactKey: Guid(ea79b30d7ada74c43964a091b2dc3bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2 using Guid(ea79b30d7ada74c43964a091b2dc3bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4860975847b899d5637192f0c2a53377') in 0.008202 seconds
+  Import took 0.012165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5
+  artifactKey: Guid(d95c735f65d2cfe47a2e7a6a0322d1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5 using Guid(d95c735f65d2cfe47a2e7a6a0322d1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9ddeedd775056a4e436ba61556897c') in 0.012130 seconds
+  Import took 0.016177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006486 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5
+  artifactKey: Guid(d95c735f65d2cfe47a2e7a6a0322d1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5 using Guid(d95c735f65d2cfe47a2e7a6a0322d1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9ddeedd775056a4e436ba61556897c') in 0.006182 seconds
+  Import took 0.011672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.580304 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.fbx
+  artifactKey: Guid(b5f3858332a430645b1c20857c9f9f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.fbx using Guid(b5f3858332a430645b1c20857c9f9f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d4bfcd35273e2f8bb0ba54f375c516') in 0.459503 seconds
+  Import took 0.463224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.prefab
+  artifactKey: Guid(c0bf9d1fd848d554abda1ef59eb498bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun1/machine_gun_1.prefab using Guid(c0bf9d1fd848d554abda1ef59eb498bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08352812f334f8135b03d78150714737') in 0.079589 seconds
+  Import took 0.085748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.068159 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.fbx
+  artifactKey: Guid(79259a82d33467448983587c8f2c0c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.fbx using Guid(79259a82d33467448983587c8f2c0c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7568297c214c8d89c64bb9e050aa749') in 0.045544 seconds
+  Import took 0.050546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.prefab
+  artifactKey: Guid(4541b36a026a86a4c8fabb973f66f142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun3/machine_gun_3.prefab using Guid(4541b36a026a86a4c8fabb973f66f142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89041522029c5f590b7ff73e3fa5cd41') in 0.030043 seconds
+  Import took 0.040226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.487161 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.fbx
+  artifactKey: Guid(b5a35b4a6c011a14483650075b1fc34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.fbx using Guid(b5a35b4a6c011a14483650075b1fc34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1191baa1cc6dd69e398306d940dd99a5') in 0.042692 seconds
+  Import took 0.048894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.prefab
+  artifactKey: Guid(5c7625153790cd048b9fbf5d5f837e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun2/machine_gun_2.prefab using Guid(5c7625153790cd048b9fbf5d5f837e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f627a1d558d8c39c3d3a5fdb6afc1c9d') in 0.034762 seconds
+  Import took 0.040901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.488820 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.fbx
+  artifactKey: Guid(19af6250f8ce3c149a3a5fb1bb91b67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.fbx using Guid(19af6250f8ce3c149a3a5fb1bb91b67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc8f2ef677d16f01f022a8c24da1882') in 0.065134 seconds
+  Import took 0.070064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.prefab
+  artifactKey: Guid(fea1566d87ea59143812144b7c80b26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun4/machine_gun_4.prefab using Guid(fea1566d87ea59143812144b7c80b26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67903d8ff425a06cbaa6d6788f767b6d') in 0.033299 seconds
+  Import took 0.042715 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004702 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.017 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000997 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.879 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.9 MB.
+System memory in use after: 53.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 3.838900 ms (FindLiveObjects: 0.476000 ms CreateObjectMapping: 0.085500 ms MarkObjects: 3.227000 ms  DeleteObjects: 0.047900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.147352 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90a1e5766009ffd3fc087e91e4c091b') in 0.008717 seconds
+  Import took 0.013243 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002557 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.467 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001140 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.366 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.8 MB.
+System memory in use after: 53.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 17.954200 ms (FindLiveObjects: 1.323100 ms CreateObjectMapping: 0.558400 ms MarkObjects: 16.043600 ms  DeleteObjects: 0.026000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002134 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.408 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000814 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.190 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.9 MB.
+System memory in use after: 53.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 2.121700 ms (FindLiveObjects: 0.354500 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.701000 ms  DeleteObjects: 0.020000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 887.716900 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1b4889d3700ebe0992bfc191b5d752') in 0.004251 seconds
+  Import took 0.007174 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001856 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.449 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.273 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.2 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 2.513000 ms (FindLiveObjects: 0.592500 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.826000 ms  DeleteObjects: 0.024300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001466 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.585 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000718 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.465 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.4 MB.
+System memory in use after: 53.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 3.088000 ms (FindLiveObjects: 0.469500 ms CreateObjectMapping: 0.074600 ms MarkObjects: 2.518800 ms  DeleteObjects: 0.023100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 236.164030 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f44a5e27f10daca751ba92870041b96') in 0.004401 seconds
+  Import took 0.008048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.998856 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f44a5e27f10daca751ba92870041b96') in 0.003902 seconds
+  Import took 0.008287 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001474 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.385 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000946 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.281 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 3.607500 ms (FindLiveObjects: 0.505700 ms CreateObjectMapping: 0.082300 ms MarkObjects: 3.001600 ms  DeleteObjects: 0.015700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.034587 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f57cd9c90c41406c7147bc733a8a8fe') in 0.005849 seconds
+  Import took 0.010208 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001586 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.697 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001005 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.565 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.7 MB.
+System memory in use after: 53.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 2.871400 ms (FindLiveObjects: 1.204800 ms CreateObjectMapping: 0.096600 ms MarkObjects: 1.543400 ms  DeleteObjects: 0.024100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.217748 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109e38771745bfe06ceb0e3290fce6ac') in 0.004438 seconds
+  Import took 0.008300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.350309 seconds.
+  path: Assets/Scripts/ChangeWeapon.cs
+  artifactKey: Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ChangeWeapon.cs using Guid(8b42ecd3f78f6ae418bad6bc946d52e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109e38771745bfe06ceb0e3290fce6ac') in 0.003846 seconds
+  Import took 0.007559 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003544 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.520 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001361 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.558 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 54.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 5.861600 ms (FindLiveObjects: 0.453300 ms CreateObjectMapping: 0.066000 ms MarkObjects: 5.262800 ms  DeleteObjects: 0.076700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 614.504114 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1
+  artifactKey: Guid(5fcfad53f5e56e04fa8a41ef0f79270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1 using Guid(5fcfad53f5e56e04fa8a41ef0f79270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267d979a8ab705b0217e02029d367720') in 0.012094 seconds
+  Import took 0.018628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001168 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3
+  artifactKey: Guid(071a02e19955697458afd6e9607f345b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3 using Guid(071a02e19955697458afd6e9607f345b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520ba580f79f483f36cfc2008c502646') in 0.007490 seconds
+  Import took 0.011927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000887 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2
+  artifactKey: Guid(d0c61454695b63249a5f3b6fd1d1790e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2 using Guid(d0c61454695b63249a5f3b6fd1d1790e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee046eddf25c883b5e64c7beae7006f') in 0.005078 seconds
+  Import took 0.009198 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001501 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.544 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000826 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.304 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.0 MB.
+System memory in use after: 54.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 2.729600 ms (FindLiveObjects: 0.374900 ms CreateObjectMapping: 0.048400 ms MarkObjects: 2.278700 ms  DeleteObjects: 0.025500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002181 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.964 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000730 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1653.
+Total: 2.778000 ms (FindLiveObjects: 0.507300 ms CreateObjectMapping: 0.091000 ms MarkObjects: 2.124700 ms  DeleteObjects: 0.052400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2250.369621 seconds.
+  path: Assets/Scripts/ShowingMessage.cs
+  artifactKey: Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ShowingMessage.cs using Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '667d0f808f01cb6949eb5ace5bf0cafa') in 0.006825 seconds
+  Import took 0.009941 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001647 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.972 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002260 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.573 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.4 MB.
+System memory in use after: 53.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 4.899500 ms (FindLiveObjects: 1.677900 ms CreateObjectMapping: 0.692800 ms MarkObjects: 2.508100 ms  DeleteObjects: 0.018400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 560.733774 seconds.
+  path: Assets/Scripts/ShowingMessage.cs
+  artifactKey: Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ShowingMessage.cs using Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6f2280200e2c5ee73475b0554b2ffc') in 0.016714 seconds
+  Import took 0.038297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.132389 seconds.
+  path: Assets/Scripts/ShowingMessage.cs
+  artifactKey: Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ShowingMessage.cs using Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1d281a5534ac7d748fa9ad64952b93') in 0.011507 seconds
+  Import took 0.051944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.493725 seconds.
+  path: Assets/Scripts/ShowingMessage.cs
+  artifactKey: Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ShowingMessage.cs using Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a58bae64480279d0515ed1af715501') in 0.019278 seconds
+  Import took 0.024057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1048.497920 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a7e7d5ca5fefd302829054b4bec02e') in 0.032010 seconds
+  Import took 0.046890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 990.110205 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f565ae27213cff137e183c2a488fe79a') in 0.007558 seconds
+  Import took 0.013298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009780 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f565ae27213cff137e183c2a488fe79a') in 0.003673 seconds
+  Import took 0.006916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Scripts/ShowingMessage.cs
+  artifactKey: Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ShowingMessage.cs using Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09eefdcb8765c11134d2c4e8325fa1d7') in 0.005107 seconds
+  Import took 0.008833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.842317 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7838a2e063242cd3341a4fdefd1ccdd5') in 0.007351 seconds
+  Import took 0.015261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.484360 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2b413a0e20454a256fc61fd76be650') in 0.009211 seconds
+  Import took 0.016378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004671 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2b413a0e20454a256fc61fd76be650') in 0.004187 seconds
+  Import took 0.008056 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001830 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.644 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000771 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.6 MB.
+System memory in use after: 53.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 2.033700 ms (FindLiveObjects: 0.331100 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.630700 ms  DeleteObjects: 0.026500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.916974 seconds.
+  path: Assets/Scripts/Shooting.cs
+  artifactKey: Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shooting.cs using Guid(db4a70a404e9f8546a9bb319e9fa9ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6cc2536abc7e1226d2b247bb2657929') in 0.004609 seconds
+  Import took 0.007586 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001895 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.492 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000856 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.394 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.8 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 2.158100 ms (FindLiveObjects: 0.421900 ms CreateObjectMapping: 0.066500 ms MarkObjects: 1.639600 ms  DeleteObjects: 0.028200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1077.521673 seconds.
+  path: Assets/Material/New Material.mat
+  artifactKey: Guid(55dbbe3c2419239468bb42e319423b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material.mat using Guid(55dbbe3c2419239468bb42e319423b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9149b31123a7b1490a13c88ddb633d02') in 0.164109 seconds
+  Import took 0.168832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.067815 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aebf494824b5c8d81be503cedee8a740') in 0.005932 seconds
+  Import took 0.009902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.954555 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(03a9ded6f91519f41abda34f05fbe092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(03a9ded6f91519f41abda34f05fbe092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7629d6b97f2dedb17c16b2e0d79f686') in 0.007096 seconds
+  Import took 0.010223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009820 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(03a9ded6f91519f41abda34f05fbe092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(03a9ded6f91519f41abda34f05fbe092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7629d6b97f2dedb17c16b2e0d79f686') in 0.003282 seconds
+  Import took 0.006593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.389408 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.fbx
+  artifactKey: Guid(d781be840f90ee34ba37af9aa4082237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.fbx using Guid(d781be840f90ee34ba37af9aa4082237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce47e55523231d297fbef9ab09808096') in 0.101855 seconds
+  Import took 0.105984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001639 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.prefab
+  artifactKey: Guid(b2ab14655afc51948a35b9a060996945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun1/shotgun_1.prefab using Guid(b2ab14655afc51948a35b9a060996945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49bb9ba7f1431a279dc740de1f318095') in 0.019606 seconds
+  Import took 0.023730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.778672 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.fbx
+  artifactKey: Guid(6d2e1f7b960abe74a9849ee0bc27c912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.fbx using Guid(6d2e1f7b960abe74a9849ee0bc27c912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4e9eefba9cae2ff24e11ece81e24db') in 0.033520 seconds
+  Import took 0.038275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.prefab
+  artifactKey: Guid(35dabb9981038864a8e9ac66b7f61773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun2/shotgun_2.prefab using Guid(35dabb9981038864a8e9ac66b7f61773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce627a0bc32fe4aab497fddef8f0ff7') in 0.017668 seconds
+  Import took 0.023517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.239627 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.fbx
+  artifactKey: Guid(1ba521b1b6e5e4f4eae2768a5263899f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.fbx using Guid(1ba521b1b6e5e4f4eae2768a5263899f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf252900bbd1ff862f725e36feaddddf') in 0.031754 seconds
+  Import took 0.036366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.prefab
+  artifactKey: Guid(01d77fd69396c614ea4a371d26316452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/Shotguns/Shotgun3/shotgun_3.prefab using Guid(01d77fd69396c614ea4a371d26316452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44485ae4edccbe5f8b51cea4e6a4cafe') in 0.018691 seconds
+  Import took 0.023981 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002300 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000726 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.345 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.0 MB.
+System memory in use after: 54.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 4.621200 ms (FindLiveObjects: 0.648200 ms CreateObjectMapping: 0.106300 ms MarkObjects: 3.836400 ms  DeleteObjects: 0.027800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.684790 seconds.
+  path: Packages/com.unity.ext.nunit
+  artifactKey: Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit using Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70f798494855a518e6370d6d52d8f22') in 0.013291 seconds
+  Import took 0.019031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Packages/com.unity.ide.visualstudio
+  artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af68640d27147c6b1063c5afbf32e69') in 0.005800 seconds
+  Import took 0.009975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Packages/com.unity.collab-proxy
+  artifactKey: Guid(1adad61bfb44214ee3e887b5febc4396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy using Guid(1adad61bfb44214ee3e887b5febc4396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7815568ff14ce7d573194c56ea42ab8d') in 0.006381 seconds
+  Import took 0.011285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Packages/com.unity.ide.vscode
+  artifactKey: Guid(1c61a04a5b7737c4d16673d64be4194e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode using Guid(1c61a04a5b7737c4d16673d64be4194e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80d467ee2afc46b454fb103061fe327') in 0.005542 seconds
+  Import took 0.008660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001251 seconds.
+  path: Packages/com.unity.test-framework
+  artifactKey: Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework using Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c018ca811c0e484123e6411368c665') in 0.004409 seconds
+  Import took 0.010583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Packages/com.unity.ugui
+  artifactKey: Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui using Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '912bed7bbdbdfb574d2e3c900e9a01ca') in 0.006651 seconds
+  Import took 0.011764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Packages/com.unity.ide.rider
+  artifactKey: Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.rider using Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4360ef32beb1d9819ba336d51bf8fb51') in 0.006281 seconds
+  Import took 0.012474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Packages/com.unity.textmeshpro
+  artifactKey: Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro using Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e19674ebbfeac077e99edc0dcc013a') in 0.004693 seconds
+  Import took 0.010026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Packages/com.unity.timeline
+  artifactKey: Guid(a4610cf559d77b9f256416d9ccaeac55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline using Guid(a4610cf559d77b9f256416d9ccaeac55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604ff5d50fda519780f14d4136fb6de5') in 0.005706 seconds
+  Import took 0.009214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001088 seconds.
+  path: Packages/com.unity.textmeshpro
+  artifactKey: Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro using Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e19674ebbfeac077e99edc0dcc013a') in 0.005852 seconds
+  Import took 0.009318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020162 seconds.
+  path: Packages/com.unity.timeline
+  artifactKey: Guid(a4610cf559d77b9f256416d9ccaeac55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline using Guid(a4610cf559d77b9f256416d9ccaeac55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604ff5d50fda519780f14d4136fb6de5') in 0.008091 seconds
+  Import took 0.011788 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002743 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.298 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001193 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.277 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.1 MB.
+System memory in use after: 54.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 7.935400 ms (FindLiveObjects: 2.887900 ms CreateObjectMapping: 0.252700 ms MarkObjects: 4.760300 ms  DeleteObjects: 0.032000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.253750 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.fbx
+  artifactKey: Guid(dc343590ef83cd845910a8928611296e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.fbx using Guid(dc343590ef83cd845910a8928611296e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd510cee74fcdd9cce45862247a98c9f8') in 0.133574 seconds
+  Import took 0.136730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.prefab
+  artifactKey: Guid(f31712436c7e64f4983818b3799e4fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aligned Games/Polygonal Modern Weapons Asset Package/Art/Models/Guns/MachineGuns/MachineGun5/machine_gun_5.prefab using Guid(f31712436c7e64f4983818b3799e4fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0578dde40f208d791ca6f5ab87e500') in 0.045775 seconds
+  Import took 0.049327 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001460 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.616 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.470 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.4 MB.
+System memory in use after: 53.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 2.192100 ms (FindLiveObjects: 0.377300 ms CreateObjectMapping: 0.045200 ms MarkObjects: 1.737300 ms  DeleteObjects: 0.031200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003111 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.768 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.573 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1684.
+Total: 2.117200 ms (FindLiveObjects: 0.350900 ms CreateObjectMapping: 0.045600 ms MarkObjects: 1.692400 ms  DeleteObjects: 0.016200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 623.560970 seconds.
+  path: Assets/Scripts/ShowingMessage.cs
+  artifactKey: Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ShowingMessage.cs using Guid(27f2d6d44300ef9439c12dc0a7213f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc5599eacbf34b85c81abc1dae4508d') in 0.010994 seconds
+  Import took 0.015633 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002986 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.133 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001129 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.952 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.7 MB.
+System memory in use after: 53.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 2.900900 ms (FindLiveObjects: 0.481100 ms CreateObjectMapping: 0.057000 ms MarkObjects: 2.342900 ms  DeleteObjects: 0.018000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001400 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.762 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000749 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Admin\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.502 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 54.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1692.
+Total: 2.641200 ms (FindLiveObjects: 0.619300 ms CreateObjectMapping: 0.153200 ms MarkObjects: 1.835000 ms  DeleteObjects: 0.032100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
